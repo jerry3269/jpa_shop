@@ -52,8 +52,8 @@ listIterator.add(color);\
 
 \<실행결과\>
 
-![텍스트이(가) 표시된 사진 자동 생성된
-설명](vertopal_e99bd24ffaba45ffbebd39a6a4f6d405/media/image1.png){width="3.3919608486439197in"
+
+https://github.com/jerry3269/springboot3/issues/1#issue-1526828002(vertopal_e99bd24ffaba45ffbebd39a6a4f6d405/media/image1.png){width="3.3919608486439197in"
 height="1.1834361329833771in"}
 
 나)
