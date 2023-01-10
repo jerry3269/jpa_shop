@@ -53,8 +53,7 @@ listIterator.add(color);\
 \<실행결과\>
 
 
-https://github.com/jerry3269/springboot3/issues/1#issue-1526828002(vertopal_e99bd24ffaba45ffbebd39a6a4f6d405/media/image1.png){width="3.3919608486439197in"
-height="1.1834361329833771in"}
+![image1](https://user-images.githubusercontent.com/109820506/211476116-0e2192a1-5f9b-4958-aa78-82401cbfbf3d.png)
 
 나)
 
